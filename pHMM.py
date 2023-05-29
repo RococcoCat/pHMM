@@ -371,6 +371,8 @@ Possible additions:
 2. use previous knowledge about proteins: substitution matrices
 3. MAP, determine whether / not to mark col
 
+
+Unfinished. Official version in Arsuaga-Vazquez lab repo.s
 """
 
 # %%
